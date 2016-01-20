@@ -1,2 +1,4 @@
 # Mizzou-Under-classes
-project for undergraduate courses
+projects from undergraduate courses
+Push from local machine
+
