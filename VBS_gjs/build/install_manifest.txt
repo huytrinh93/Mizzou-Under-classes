@@ -1,0 +1,3 @@
+/usr/local/lib/libvbs.so
+/usr/local/include/VirtualBlockStorage.h
+/usr/local/include/bitmap.h

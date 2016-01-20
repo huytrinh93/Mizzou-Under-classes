@@ -1,0 +1,3 @@
+/home/huy_trinh/Desktop/VBS_gjs/build/CMakeFiles/test_vbs.dir
+/home/huy_trinh/Desktop/VBS_gjs/build/CMakeFiles/test_vbs_storage.dir
+/home/huy_trinh/Desktop/VBS_gjs/build/CMakeFiles/vbs.dir

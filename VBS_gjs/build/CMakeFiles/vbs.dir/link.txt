@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC  -g -std=c99 -D_XOPEN_SOURCE=500 -Wall   -shared -Wl,-soname,libvbs.so -o libvbs.so CMakeFiles/vbs.dir/src/VirtualBlockStorage.c.o CMakeFiles/vbs.dir/src/bitmap.c.o 

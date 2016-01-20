@@ -1,0 +1,1 @@
+/usr/bin/gcc   -g -std=c99 -D_XOPEN_SOURCE=500 -Wall    CMakeFiles/test_vbs.dir/src/VBS_test.c.o  -o test_vbs -rdynamic libvbs.so -Wl,-rpath,/home/huy_trinh/Desktop/VBS_gjs/build 

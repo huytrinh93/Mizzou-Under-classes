@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huy_trinh/Desktop/VBS_gjs/src/../include/VirtualBlockStorage.h
+stdbool.h
+-
+bitmap.h
+/home/huy_trinh/Desktop/VBS_gjs/src/../include/bitmap.h
+
+/home/huy_trinh/Desktop/VBS_gjs/src/../include/bitmap.h
+sys/types.h
+-
+stdint.h
+-
+stdbool.h
+-
+
+/home/huy_trinh/Desktop/VBS_gjs/src/VBS_test_storage.c
+../include/VirtualBlockStorage.h
+/home/huy_trinh/Desktop/VBS_gjs/src/../include/VirtualBlockStorage.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+errno.h
+-
+string.h
+-
+strings.h
+-
+assert.h
+-
+
