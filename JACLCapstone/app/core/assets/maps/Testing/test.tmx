@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" nextobjectid="3">
+ <properties>
+  <property name="outside" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <layer name="1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzjsNACAQBNENAsg1SCKIxAXgChOcCMInmeLVM0FSAADgMTPdfwCwVzapRqnY2W7zXnfjcBf4wQKn+QuZ
+  </data>
+ </layer>
+ <layer name="1c" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0UkOAUEUxvG3JenW6OYQ2JrOYDgCBzFzCCzNHALXIcYb+HdIOraoRlJf8kule/G+VykRHR0dnf9L2hbJIIsc8rb6zhEdY0wwxQxzLLDEStEOIUfEQhgRRGHDQQxxR01vjbl1NNBEC2100EVPUe+OufvH7APnESecccFVUe+vZm3cz63hb2/CvJ8pU/d+Mu57bgzvPf3qdXuSptejorcSEKkGnv/1mT/A0PS+3Qx9ft9fSyEoUkQJ5eC3t3k/BYv7oGR9exOdV3IDotgkNQ==
+  </data>
+ </layer>
+ <layer name="2" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzrkRgDAUA1GFdmDH0ANtQlsuhaME0wC/CguYfTOKVxIAAHizVjzdpf6jOyVpTuO7azQ3Q7dH8zZ0v2jP0hE7Y1d2vwE8HnFJCOY=
+  </data>
+ </layer>
+ <layer name="2c" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="Events" width="30" height="30">
+  <properties>
+   <property name="11,7" value="GOTO test2.tmx 9,17"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6ClsI/9S/maQB9IQAIAADe6vgfANkVVAFg=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="2" gid="2419" x="259" y="337" width="100" height="86"/>
+ </objectgroup>
+</map>

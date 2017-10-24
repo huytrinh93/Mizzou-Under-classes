@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <properties>
+  <property name="outside" value="false"/>
+ </properties>
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <layer name="1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxrE2RgaKMzfs5DfztH8SgexaOYHvgZFcq3J0SYgc0eYvRREwMANpvttQ==
+  </data>
+ </layer>
+ <layer name="1c" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAfqOZhYAjihbBBNAhX8RCvDx0H82KqDcSiDt2eZ0TYSQg8GTVv1LxR80bNw2JeBQ92XInFnnIcaiuIcBO5+qgJAHmNLFg=
+  </data>
+ </layer>
+ <layer name="2" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="Events" width="20" height="20" visible="0">
+  <properties>
+   <property name="9,18" value="GOTO test.tmx 11,6"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/cBQbAEtHwSgYBaNgFFAVAAD+jQBY
+  </data>
+ </layer>
+</map>

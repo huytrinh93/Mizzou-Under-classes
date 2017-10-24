@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" nextobjectid="45">
+ <properties>
+  <property name="outside" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="pkmset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+  <tile id="3184">
+   <properties>
+    <property name="15,16" value="GOTO"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="5778" name="natset" tilewidth="16" tileheight="16">
+  <image source="../../terrain.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="terrain" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJx7yMDA8JAEvI0RPybFrKFgHiHzKTUP3cyRYB4IH+GCYGqZB8LuLNQ1j9p41H2j7htu7gMAM1VV5A==
+  </data>
+ </layer>
+ <layer name="background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy7xczAcBOIbxFBh3Eh8GEgPoKG33Ai1LqzMDC4seCnCZkFkoOZRQwgZBYIw9xHDEA36xiaWYTc5ydAnJuRwwHZfacYiXMnNvNgboe5T4QIvW1YwgU9TEkJP2zgMJo5sLSADohxLzIAmQMyExTmuMIdX3ii64G5D5955LiP0vBDdx+29EfIvdjCgVL3occXPveRAwi5D1t6wRcO+NxHTr6jZ/ySA9DdRy0aAGfRbQ4=
+  </data>
+ </layer>
+ <layer name="foreground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzLYWZgyAViagFqmgUCOaPuowhQy33U9ifMTGqaRQv3UTv8qOnGUfdRbuZQcR+1aGqaBaIB3gEjSQ==
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects">
+  <object id="6" x="112" y="64" width="16" height="17"/>
+  <object id="7" x="79" y="191" width="16" height="16"/>
+  <object id="8" x="176" y="240" width="15" height="17"/>
+  <object id="9" x="224" y="144" width="14" height="15"/>
+  <object id="23" x="0" y="-1.33333" width="203" height="23.3333"/>
+  <object id="24" x="0" y="303.5" width="319" height="16.5"/>
+  <object id="26" x="288" y="100" width="31" height="219"/>
+  <object id="27" x="0" y="-1.33333" width="31" height="321.333"/>
+  <object id="40" x="176.667" y="-1.33333" width="63" height="56.6667"/>
+  <object id="41" x="239.667" y="28" width="16.3333" height="19.3333"/>
+  <object id="42" x="256" y="21" width="40.6667" height="34"/>
+  <object id="43" x="257" y="47.3333" width="62" height="72.3333"/>
+  <object id="44" x="176" y="96" width="15.6667" height="10.6667"/>
+ </objectgroup>
+ <layer name="events" width="20" height="20" visible="0">
+  <properties>
+   <property name="15,16" value="GOTO chapter1-2.tmx 25,46"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFxIJCnoF2wSgYBaNgFAweAACBFgB+
+  </data>
+ </layer>
+</map>

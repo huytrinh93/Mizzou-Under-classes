@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="90" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16" tilecount="5777">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <tileset firstgid="5778" name="terrain" tilewidth="16" tileheight="16" tilecount="4096">
+  <image source="../../terrain.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="9874" name="tileset-schnee" tilewidth="16" tileheight="16" tilecount="368">
+  <image source="../../tileset-schnee.png" width="128" height="736"/>
+ </tileset>
+ <tileset firstgid="10242" name="tileset-biome" tilewidth="16" tileheight="16" tilecount="9384">
+  <image source="../../tileset-biome.png" width="2176" height="1104"/>
+ </tileset>
+ <layer name="terrain" width="75" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMA6Dlev8Ca7QcBwV7SVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVHxyAfoGg
+  </data>
+ </layer>
+ <layer name="background" width="75" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztnVluE0EURR9zwvTNGlD+SCDykB3ADhBbYJ7n8Td8wWaQWAI/ZgUghXn4AsJ0S3alC9xuv9fdHqr6HunqpiUrkp+PqlJ2bG8cEXmDbETeb3PyDnmPfEA+Ip+Qy93yfXpZ5Mxy/H02p88h55ELyEXkEiJr5fsb+jvyI8HeRH4iv5DfyB/kalffzqfw+vaKyB3kboJ9D7mPPEAeIo+QV+3xvQ0ObR/45NpfLxwVWUT2JpZ9g+xHDiAHkc3D4/NsVeRK9991yl07r9bxO750RL52Zn//qs4mnEvZWTmcR+E65b06dCyb2/NViYq8+RRdV/XqcyebW0xo7neZOEZ5Fc4tFq8mNadUvZokKXk1SYq8CudG+mi8IvTKCtcrHfTKhsYrfy5fwBlycSXr4y2RE62sU0brlT+XryOPg+5hPi9bWacOvdJBr2zQK5EnSyJPl4pvQ69s0Csd0/ZK4/o8E6tX05471ysbsXo1beiVjTJe/e8TvRrtlffIz4heZXM72c53iV4Ne/W6Pbw29egVvRpBGa9Cl+hVsVfhzPzPqTvlqOpVk/62clTxqilrlaPqPkiv9PsgvaJXo6BXOuiVDXqlg17ZsHiVdwakV5LrVY9e0SsF9MoGvcooes1xWl7F/nqzp4pXKTk1jqpeNWmtctArHfTKBr3SQa9s0Csd9MoGvdJBr2zQKx1N8KrOs2gd/yfTBKo+3x6DV3VCr3TQKxuz9Cqm5wDplQ2uVzrolQ16pYNe9dHuMXV7FdPeZoFe2Yh1vZrX96XSqz51vh+nSs/7nlqXV3V0DI5W9apOt1L3qk63UvCKn6vGz1WzQq90hF6FTa/y8d8j4DvPq2vIdeQGe6tvIrcGfoVenWrP+hGdP15gz94zWL9CrzirYdys/Peg0Kti3Kzy1ivOaphRXu1AdiK72Fu9ey3bD/8CkCeBhQ==
+  </data>
+ </layer>
+ <layer name="foreground" width="75" height="90">
+  <data encoding="base64" compression="zlib">
+   eJzt3DEKgzAUgOGs9RA9hl1yIu3959ahULBDROLLK98HjzgImvDPKQUgj9tcylpLeb5nqbmfz7o/2t77/mb0nq8+o49pbntv62upeaaHI11lmV6OdDUlmJ7+savoZrN01XN0pStdxY+udBXVFQAAAAAAAAAAAAAAAAAAAAAA0M92H9Bax1xHM8KZ/Fpb77+6UvSZnO3q6ntro8/kTFcj72HUrqL/VVd5VgBg7wUG0laN
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="75" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4MaXgAAQ==
+  </data>
+ </layer>
+</map>

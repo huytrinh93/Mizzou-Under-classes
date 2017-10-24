@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <layer name="terrain" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJx7ysPA8HQUDxoMAEmeXiU=
+  </data>
+ </layer>
+ <layer name="background" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJyr5mFgCOLFj6uAap4BMSHwBIs6fkYGBgFGwupqgGpqiVBHrL30UkcseMqDwMhmP+FBlQMAPREZ2A==
+  </data>
+ </layer>
+ <layer name="foreground" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFpkBsxkAYLALixUSoG+6gggeBK3kQ4uU8qHJPkTA6QJYDAM75C3c=
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="10" height="10" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANKOQhTmykAlBYYAsPAD3XAfU=
+  </data>
+ </layer>
+</map>

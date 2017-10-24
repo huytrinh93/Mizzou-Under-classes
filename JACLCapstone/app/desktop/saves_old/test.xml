@@ -1,0 +1,18 @@
+<player>
+	<save>
+		<time>07:34</time>
+		<player_location>
+			<x>14</x>
+			<y>2</y>
+		</player_location>
+		<map>object_collision_test.tmx</map>
+		<progress_flag>0</progress_flag>
+	</save>
+	<texture>image.png</texture>
+	<width>1.0</width>
+	<height>1.0</height>
+	<health>100.0</health>
+	<knockback_on_collide>false</knockback_on_collide>
+	<damage_on_collide>0.0</damage_on_collide>
+	<move_speed>5.0</move_speed>
+</player>

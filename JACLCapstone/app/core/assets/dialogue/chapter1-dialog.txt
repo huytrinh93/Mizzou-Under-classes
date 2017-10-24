@@ -1,0 +1,129 @@
+Sign: Dia! Quickly, head into the cave and take cover!<s><t>
+Malc's Echo: Dia! Stay close and wait for this earthquake
+to stop!<s>
+Malc's Echo: Aggghhh, my arm, I don't think I can wield my 
+sword in this cave. Dia can you take it and use it if we
+need it?<s><t>
+You've attained the Sword! Use [SPACE BAR] to swing it at your
+foes!<s><t>
+Malc's Echo: Whew, that earthquake was a close call! I hope 
+mother and father are alright. This cave sure is dark, good 
+thing I brought our lantern with us.<s><t>
+Malc's Echo: It's no use, I this boulder won't budge.
+Maybe we can find another way out of this cave.<s><t>
+Mysterious Voice: Heeeeellllllppppppp Meeeeeeeeeeeee!<s>
+Malc's Echo: Who... who's there!?<s>
+Mysterious Voice: Heeeeeeeelllllpppppp meeeeeeeeeeeeeeee.....<s>
+Malc: Dia did you hear that? <s>
+Mysterious Voice: Puuussssshhhhh thhhhheeee gllllowwwwiiinnngggg
+rooooccccckkkk offf theeeee peeedddaasssstaaaallll.....<s>
+Malc: Dia, what do you think? Should we listen to this mysterious voice?<s>
+Mysterious Voice: I knnnooowwwwww thhheeee waaaaayyyyy oooouuutttt
+offfff theeeee caaaaaavvvveeeee.....
+Puuuussssshhhh thhheeeee gllloowwwwwiiinnnnggg rooooocccckkkk<s>
+annnndd I wiiilllll shhhhhoowwww yoouuuuu....<s>
+Malc: Well Dia, it looks like we have no choice, 
+let's listen to the voice and get the heck out of here!<s><t>
+Mysterious Voice: Thank you children for freeing me. My name is Xoyn.
+I've been trapped in that crystal by an evil wizard from long ago.
+As my gratitude for being free, I shall guide you out of the cave.<s>
+Malc: It is our pleasure, normally we wouldn't trust a mysterious voice,
+but we had no other choice. Thank you for guiding us out of here!<s><t>
+Xoyn: Ahhhhhh the fresh air! The breeze! The sunlight! 
+I haven't had these pleasantries in decades! **Evil Cackle**<s>
+Thank you children, now that I am free from my confines, I, 
+Onyx, shall continue trying to take over this treacherous
+kingdom of Jewel!<s>
+It took all the remaining strength I had to conjure up that little 
+"earthquake" you two were so scared about in order to lure you
+in and free the likes of me! **Evil Cackle** For your cooperation<s>
+I have held up my deal and lead you outside of the cave and as
+gratitude for setting me free, I shall let you live to see another day. 
+Goodbye children, and thank you for letting my wickednes roam<s>
+again! **Evil Cackle**<s><t>
+Malc: Hey! Mister! Wait! What do you mean you're going to take over
+Jewel! Xoyn!!!<s>
+Dia, this is bad, we better go back home and tell mother and father 
+what happened!<s><t>
+Father: Dia! Malc! Thank the guradian you two are alright. Where did the
+two of you go during the earthquake!?<s>
+Malc: Papa, we ran into the cave in the forest for shelter.<s>
+Father: Oh thank goodness! We were worred you two would've been 
+crushed by the debris falling from the Sanguine Crag.<s>
+Dia: Oh papa! I'm so sorry!<s>
+Father: What happened Dia? You two are okay, everything is fine!<s>
+Dia: Well, when Malc and I ran into the cave we got trapped inside. 
+We heard a strange voice coming from a glowing crystal. 
+The crystal told us to knock it over and it would help us escape<s>
+so we did!<s>
+Father: Oh Dia! Please don't tell me... you both found the crystal
+imprisoning the evil conquerer Onyx?<s>
+Dia: Yes, but how did you know!?<s>
+Father: My dear children, gather around while your mother and I tell
+you the story of how we came to live where we are and who our family 
+really is.<s><t>
+Father: Many many years ago, when I was but a wee child there was a 
+beautiful guardian of our land of Jewel. It was made of extravagent 
+gemstones that held mystical powers.<s>
+It protected us from the dangers of the land, helped us live free 
+and happy. But one day, an evil came onto our lands.
+That evil's name was Onyx.<s>
+Onyx had a plan to conquer the kingdom of Jewel and take control of
+our very own gemstone guardian. An epic battle between
+the guardian and Onyx took place and in the end the gemstone<s>
+guardian shattered into several pieces sealing away Onyx into his 
+own black gemstone. Since that day, our family was chosen by the 
+village to protect the several shattered pieces in case one day<s>
+we may need to try and summon the gemstone guardian once again.<s><t>
+Onyx: Touching story old gemstone guardian, but you're too late.
+I've already gathered and hidden those precious jewels across this
+land. My power hasn't returned enough to destroy such mystical<s>
+gems, but I have enough to at least take care of you!<s><t>
+Father: Onyx! You will never get away with this!<s>
+Onyx: *Evil Cackle* Hehehehe, oh, but I already have, and once
+I regain my strength I shall gather those mystical gems and 
+corrupt them to summon my own dark and evil gemstone guardian!<s><t>
+Father: Dia go check on Malc to see okay. Luckily your mother 
+and I were able to conjure up a bit of magic to protect ourselves;
+however, we only have enough to keep this boulder from crushing<s>
+us for the time being.<s><t>
+Father: I see, so he's out cold? Well I'll need you to keep his 
+sword and run to Prism City and grab the doctor, while you're
+there try to also find the Minor brothers to help break up this<s>
+boulder so we can get out from underneath. The city should be
+located North! We only have so many resources here in Roughcut
+Village but if you find anything useful, be sure to take it with<s>
+you!<s><t>
+Doctor: I see! Dia, I'll go ahead and hurry on down to your home,
+I hope I get there in time to help Malc and the rest of your
+family!<s><t>
+Natural Minor: Dia, my brother's haven't returned from the fields
+to the West! They're the only ones that can help remove that
+boulder on your house. Can you go check on them to make sure<s>
+they're alright? I would leave, but I have to mind the store,
+thank you bunches!<s><t>
+Sharp Minor: Thanks for helping us with those beasts Dia!
+We were out for some supplies and didn't hear them come up
+from behind us. Our hearing's gone a little bad from all the<s>
+dynamite and mining we do from day to day. They ended up hurting
+Flat, my little brother, over here and he ended up fainting
+because he's not used to some pain. He'll be alright though,<s>
+he's just overreacting. I'll go ahead and drag him back to our 
+store. Meet us there and we can talk more about helping your 
+parents.<s><t>
+Sharp & Flat Minor: Thanks for the help back there. We'd be 
+glad to help out your family. We'll leave right away and meet 
+you there. Thanks Dia!<s><t>
+Doctor: Dia, your family are all under fairly good condition.
+Nothing too serious except for Malc's broken bones. Your 
+parents were lucky they had just enough magic power to protect<s>
+themselves from the attacks.<s><t>
+Father: Dia, your mother and I are still weak from using too
+much of our magic. Your brother, who is alright, has too many
+broken bones to try and stop Onyx so it's up to you now to<s>
+take on this quest to try and save Jewel! The first gemstone
+we have hidden is in the Emerald Temple hidden to the East.
+It's past the Overgrown Hollow and the Deadly Oasis.<s>
+Hurry and reach the temple and reclaim the gemstone there
+so we can try to reassemble the Gemstone Guardian in order
+to stop Onyx and his dasterdly plans!

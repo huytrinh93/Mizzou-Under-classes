@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <layer name="terrain" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt28ENglAURcFfgNKDWozar9oRfejOAiDhBGYxCVvu2f43n8aYSbmfx3gs9Dxv/x972e/1+34v9Dlwj7X300OPPdGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjZe39LtMY14Vu0/a7bMV+AAAAAAAAAADwt/Z9t3v7Zbz/a9GjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVr0aNGjRY8WPVrWvu92Lw4AAAAAAAAAwBG4227t4h1Zaxc9Wrvo0dpFj9YuerR20aO1ix6tXfRo7aJHaxc9Wrvo0dpFj9YuerR20aO1ix6tXfRo7eJu2y5H8wUVmveT
+  </data>
+ </layer>
+ <layer name="background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztnFFSAjEUBDmAHg69DVzX8hzyyY8wgcnL7Et3FX+vZkwa0Owi14/T6evT87jcsq5Cnjrn7nU/Zqzj9/Zw8SPmqXPuXjfp68BHVt759pr7/qzvxUdWL+vI6mUdWb2s47289HWs6sVHVi8+snpX5bn/Lh7JU8/THf5uJ4888sgjjzzyyCOPPPLIe5S3GyvO8SPcn1fvz6Tnpve71es5r+zfs3P+2fjzJb/O3b0jPrj+N78XHzXgoybP3YuPGvBRk+fuxUcN+KjJc/fio4YZPtw4fcyYU3H3zrwe8eg6CD5en1NZuX/4mN+Lj/c4wj7j45hzKviomVPBR82cCj5q5lTwUTPnpoOPI3weXblnrZ6TR/I6vC53y8NHVh4+svLwkZWHj6w8fGTl4SMrDx9ZeSvPv25287Hic+buz6OrHMGH8+dzs+P7FT7m53XxoV53VMFHFvjIAh9Z4OM9+H2eBT5glFWfK0g+x6c8jnqffTd4X8sCH1ngIwt8ZIGPLPCRBT6ywEceHc7x6d9Ldxl4jq7y0eH630ieCj5q8lTwUZOngo+aPBV81OSp4KMmTwUfNXkq+KjJU8FHTZ7KjH1+dp84/X5yyvWI//Yl/XnfZU6lS2/6nEqX3vQ5lS696XMqXXrT51S69KbPqXTpTZ9T6dKbPqfSpTd9TiW9d+X30iXvyxGuI+20L132z5236v+xu+zfqjx3b/p60/PcvenrTc9z96avd7ffq132z523W2963oxeyOIPr9yMOg==
+  </data>
+ </layer>
+ <layer name="foreground" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt3MENgCAQBEAKsF+1e2MBRtQ1gswk+yMY+F3usBQAAABoyzyVsk7Z/ZbKJL8LAAAAZ45q0iu1bE+pkTz71TsFAACAp0bsd6drdgAAAOjZnZ51Yp05eAAAABK+njc37w0AwKjS86fA//31LXo65tYBAABogTr+OAAAAJBQ2yeuXZf+j1zL++302QEAAAAAgB54jw2M7E5fXN7LBkQC9vw=
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt3ElywjAQBVAOkMvm/puUt0lVsLCGHt5bU0b9W7JBGL9eAFy+v06PILeR/FZmrY953O3V7NcRi75BfNc6tVafmZnfrn7o+VryZRVziwy6zdMd+yWrM+3Ws2r0DwCAyrp83l1V553jdsn4sqLWTvmNkg0AvOd6uUennDvVChFkWHMZxvif7OMfNbvebvmdJm+gG+c9YBXnl3HdMzvxu3iGzGf/122VDFl296RH+ptHlOeIwAzm6D7+78YKFftesabu3vU0S8+jj/PU+KLncpk1B13LOc0cAU5x/gGYo9L59EQtu9/Tb75zdKqVveyFARCJ60NN+soo9xT+VeVegUvHe+shMmuIUeYMzGEt5eU5y1CTvQgyqHYNyjTWuyrW9FulfUryePq8CfMyjoz9ODnebFlFMuPzvfz5VMW5U7Em7jm1X/LJsU6//8rjAESR8TtdJT/D0jil
+  </data>
+ </layer>
+</map>

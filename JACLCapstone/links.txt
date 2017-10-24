@@ -1,0 +1,25 @@
+These are some good links for our project:
+
+libGDX
+======
+http://libgdx.badlogicgames.com/
+  (Main website. Includes downloads, tools, and documentation.)
+https://www.youtube.com/watch?v=_rVS1zHThZ0
+  (YouTube tutorial. Developer creates an entire game in a single session.)
+
+Artwork
+=======
+http://www.reddit.com/r/freegameassets/
+  (Subreddit containing assets for developers. Must use correct licensing.)
+http://opengameart.org/
+  (Free game art. Must use correct licensing.)
+http://www.sonniss.com/sound-effects/free-download-game-audio/ 
+  (10GB of free game audio. Royalty-free.) (Torrent: http://sonniss.com/GameAudioGDC.torrent)
+http://99sounds.org/free-sound-effects/
+  (3GB of free game sound effects. Royalty-free.)
+http://www.kenney.nl/assets/roguelike-rpg-pack
+  (RPG tileset by Kenney, a well-known public-domain asset creator.)
+  
+  
+http://opengameart.org/content/tiled-terrains
+  (Tileset.)

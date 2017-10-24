@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="40" tilewidth="16" tileheight="16" nextobjectid="222">
+ <tileset firstgid="1" name="pkmset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <tileset firstgid="5778" name="natset" tilewidth="16" tileheight="16">
+  <image source="../../terrain.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="terrain" width="20" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Hz77JO5mIvSFg1VVXVhwcUn78/
+  </data>
+ </layer>
+ <layer name="background" width="20" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzVlV0OATEQx0d219PuJhIRPOMMPuKV6+AOOBKugIhXEtwBBzDYRlPt9GN3JSb5p8128su/nXbn4AEcUQdhHPrwikUEsEy0it7fBv53PhtFxjOXsVQ8xmT5PFP0I4aKxwfP5P258rL0R52fLU9WkzT+ZHVOe36q+qqYaeor2/M/11fcaxbnp3u/Njzq/rn4090/GTOtP5Gp4pn8/2RMGU+VT/ljYyMGaCZqxfp8ak1Wb+pfT/lTvRcd05alY7qwKCbFKjswXXxRTPG+rQv2PJW/Sg7+XML0/DYBwBa1T/Sc7wJ3f+0iQBfVQfWTea/4WWf1/2V9qyWAGqpeohn8PaD8TZEzQ80JnhcC+Kgg1Psz4Y2QM0ZNQr2/K3JuqDvBOyHnjLoY+HMJm/5mwzLpbzYsk/5hwsizfzwAcxhliw==
+  </data>
+ </layer>
+ <layer name="foreground" width="20" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzLZWZgyAHiXCAmF8D051DBLHQzcwfQff4C+M2i1H3oZlEj/KjpPmxmoptPqZn0jl9scYrLrIEOv4FMf9QyE918Uswkxn3EmolLHzYxQmbiUo/PfbjMJKSeXu6jZvgRC+id/sgFw6V+a2FhYGgF4jYkup2FfPd9BOr9BMSfkegvWMwj1n1xrAwM8UCcgEQnspLvPmLBUI7feEZg2ANpCSq5jxjz5GngPkU0cylxHzoYDvXbYKk/qA0Asc+VKg==
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects">
+  <object id="1" x="213" y="518" width="37" height="37"/>
+  <object id="2" x="113" y="418" width="93" height="53"/>
+  <object id="172" x="273" y="360" width="35" height="235"/>
+  <object id="174" x="21" y="337" width="26" height="242"/>
+  <object id="175" x="16" y="-7" width="28" height="257"/>
+  <object id="177" x="191" y="287" width="31" height="22"/>
+  <object id="178" x="209" y="302" width="31" height="22"/>
+  <object id="179" x="242" y="334" width="31" height="22"/>
+  <object id="180" x="224" y="319" width="31" height="22"/>
+  <object id="181" x="256" y="349" width="31" height="22"/>
+  <object id="182" x="48" y="238" width="31" height="22"/>
+  <object id="183" x="63" y="255" width="31" height="22"/>
+  <object id="184" x="30" y="223" width="31" height="22"/>
+  <object id="185" x="95" y="285" width="31" height="22"/>
+  <object id="186" x="81" y="270" width="31" height="22"/>
+  <object id="187" x="80" y="302" width="31" height="22"/>
+  <object id="188" x="49" y="336" width="31" height="22"/>
+  <object id="189" x="64" y="319" width="31" height="22"/>
+  <object id="190" x="16" y="365" width="31" height="22"/>
+  <object id="191" x="31" y="348" width="31" height="22"/>
+  <object id="192" x="48" y="589" width="31" height="22"/>
+  <object id="193" x="63" y="606" width="31" height="22"/>
+  <object id="194" x="30" y="574" width="31" height="22"/>
+  <object id="195" x="81" y="621" width="31" height="22"/>
+  <object id="196" x="240" y="592" width="31" height="22"/>
+  <object id="197" x="256" y="575" width="31" height="22"/>
+  <object id="198" x="225" y="609" width="31" height="22"/>
+  <object id="199" x="210" y="622" width="31" height="22"/>
+  <object id="200" x="195" y="608" width="31" height="22"/>
+  <object id="201" x="96" y="605" width="31" height="22"/>
+  <object id="202" x="225" y="254" width="31" height="22"/>
+  <object id="203" x="241" y="237" width="31" height="22"/>
+  <object id="204" x="256" y="220" width="31" height="22"/>
+  <object id="205" x="210" y="271" width="31" height="22"/>
+  <object id="206" x="256" y="191" width="31" height="22"/>
+  <object id="207" x="271" y="174" width="31" height="22"/>
+  <object id="208" x="240" y="208" width="31" height="22"/>
+  <object id="209" x="272" y="143" width="31" height="22"/>
+  <object id="210" x="287" y="126" width="31" height="22"/>
+  <object id="211" x="256" y="160" width="31" height="22"/>
+  <object id="212" x="257" y="63" width="31" height="22"/>
+  <object id="213" x="272" y="46" width="31" height="22"/>
+  <object id="214" x="241" y="80" width="31" height="22"/>
+  <object id="215" x="273" y="110" width="31" height="22"/>
+  <object id="216" x="255" y="95" width="31" height="22"/>
+  <object id="217" x="289" y="29" width="31" height="22"/>
+  <object id="218" x="271" y="14" width="31" height="22"/>
+  <object id="219" x="193" y="-19" width="96" height="39"/>
+  <object id="220" x="31" y="-16" width="62" height="39"/>
+  <object id="221" x="78" y="-10" width="47" height="22"/>
+ </objectgroup>
+ <layer name="events" width="20" height="40" visible="0">
+  <properties>
+   <property name="10,0" value="GOTO chapter1-3.tmx 10,49"/>
+   <property name="10,39" value="GOTO chapter1-5.tmx 20,0"/>
+   <property name="11,0" value="GOTO chapter1-3.tmx 11,49"/>
+   <property name="11,39" value="GOTO chapter1-5.tmx 21,0"/>
+   <property name="8,0" value="GOTO chapter1-3.tmx 8,49"/>
+   <property name="8,39" value="GOTO chapter1-5.tmx 18,0"/>
+   <property name="9,0" value="GOTO chapter1-3.tmx 9,49"/>
+   <property name="9,39" value="GOTO chapter1-5.tmx 19,0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYMAPCnlQ8SgYBaNgFIyCUTAKRsEoGAWjYBTAAKn9BQB/WAPp
+  </data>
+ </layer>
+</map>

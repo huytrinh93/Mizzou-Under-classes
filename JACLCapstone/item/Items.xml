@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<ROWSET>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Standard Revolver</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Standard Axe</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Standard Flamethrower</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Standard Machete</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Standard Bat</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Premier Revolver</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Premier Axe</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Premier Flamethrower</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Premier Machete</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Premier Bat</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Ultimate Revolver</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Ultimate Axe</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Ultimate Flamethrower</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Ultimate Machete</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Ultimate Bat</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Standard Herbs</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Standard Potion</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Standard FirstAid</FIELD2>
+        <FIELD3>5</FIELD3>
+        <FIELD4>20</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Premier Herbs</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Premier Potion</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Premier FirstAid</FIELD2>
+        <FIELD3>10</FIELD3>
+        <FIELD4>40</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Ultimate Herbs</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Ultimate Potion</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Healer</FIELD1>
+        <FIELD2>Ultimate FirstAid</FIELD2>
+        <FIELD3>15</FIELD3>
+        <FIELD4>60</FIELD4>
+    </ROW>
+    <ROW>
+        <FIELD1>Weapon</FIELD1>
+        <FIELD2>Legendary Excalibur-Sword</FIELD2>
+        <FIELD3>20</FIELD3>
+        <FIELD4>500</FIELD4>
+    </ROW>
+</ROWSET>

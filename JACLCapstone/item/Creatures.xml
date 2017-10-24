@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<ROWSET>
+    <ROW>
+        <FIELD1>Scrappy Vampire</FIELD1>
+        <FIELD2>162</FIELD2>
+        <FIELD3>Standard Fangs</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Werewolf</FIELD1>
+        <FIELD2>50</FIELD2>
+        <FIELD3>Standard Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Dragon</FIELD1>
+        <FIELD2>104</FIELD2>
+        <FIELD3>Premier Fire-Breath</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Gremlin</FIELD1>
+        <FIELD2>146</FIELD2>
+        <FIELD3>Standard Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Troll</FIELD1>
+        <FIELD2>140</FIELD2>
+        <FIELD3>Standard Club</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Ghoul</FIELD1>
+        <FIELD2>125</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Shifter</FIELD1>
+        <FIELD2>139</FIELD2>
+        <FIELD3>Standard Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Demon</FIELD1>
+        <FIELD2>125</FIELD2>
+        <FIELD3>Standard Sword</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Mutant</FIELD1>
+        <FIELD2>62</FIELD2>
+        <FIELD3>Standard Super-Punch</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Scrappy Zombie</FIELD1>
+        <FIELD2>189</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Vampire</FIELD1>
+        <FIELD2>115</FIELD2>
+        <FIELD3>Standard Fangs</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Werewolf</FIELD1>
+        <FIELD2>144</FIELD2>
+        <FIELD3>Premier Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Dragon</FIELD1>
+        <FIELD2>184</FIELD2>
+        <FIELD3>Ultimate Fire-Breath</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Gremlin</FIELD1>
+        <FIELD2>182</FIELD2>
+        <FIELD3>Standard Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Troll</FIELD1>
+        <FIELD2>91</FIELD2>
+        <FIELD3>Standard Club</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Ghoul</FIELD1>
+        <FIELD2>183</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Shifter</FIELD1>
+        <FIELD2>105</FIELD2>
+        <FIELD3>Ultimate Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Demon</FIELD1>
+        <FIELD2>118</FIELD2>
+        <FIELD3>Premier Sword</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Mutant</FIELD1>
+        <FIELD2>95</FIELD2>
+        <FIELD3>Standard Super-Punch</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Feisty Zombie</FIELD1>
+        <FIELD2>69</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Vampire</FIELD1>
+        <FIELD2>63</FIELD2>
+        <FIELD3>Standard Fangs</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Werewolf</FIELD1>
+        <FIELD2>196</FIELD2>
+        <FIELD3>Premier Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Dragon</FIELD1>
+        <FIELD2>98</FIELD2>
+        <FIELD3>Standard Fire-Breath</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Gremlin</FIELD1>
+        <FIELD2>57</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Troll</FIELD1>
+        <FIELD2>185</FIELD2>
+        <FIELD3>Standard Club</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Ghoul</FIELD1>
+        <FIELD2>71</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Shifter</FIELD1>
+        <FIELD2>85</FIELD2>
+        <FIELD3>Premier Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Demon</FIELD1>
+        <FIELD2>196</FIELD2>
+        <FIELD3>Premier Sword</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Mutant</FIELD1>
+        <FIELD2>118</FIELD2>
+        <FIELD3>Ultimate Super-Punch</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Quarrelsome Zombie</FIELD1>
+        <FIELD2>121</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Vampire</FIELD1>
+        <FIELD2>148</FIELD2>
+        <FIELD3>Standard Fangs</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Werewolf</FIELD1>
+        <FIELD2>116</FIELD2>
+        <FIELD3>Standard Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Dragon</FIELD1>
+        <FIELD2>192</FIELD2>
+        <FIELD3>Standard Fire-Breath</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Gremlin</FIELD1>
+        <FIELD2>65</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Troll</FIELD1>
+        <FIELD2>153</FIELD2>
+        <FIELD3>Ultimate Club</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Ghoul</FIELD1>
+        <FIELD2>177</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Shifter</FIELD1>
+        <FIELD2>133</FIELD2>
+        <FIELD3>Premier Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Demon</FIELD1>
+        <FIELD2>171</FIELD2>
+        <FIELD3>Standard Sword</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Mutant</FIELD1>
+        <FIELD2>199</FIELD2>
+        <FIELD3>Standard Super-Punch</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Rabid Zombie</FIELD1>
+        <FIELD2>98</FIELD2>
+        <FIELD3>Standard Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Vampire</FIELD1>
+        <FIELD2>129</FIELD2>
+        <FIELD3>Standard Fangs</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Werewolf</FIELD1>
+        <FIELD2>189</FIELD2>
+        <FIELD3>Standard Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Dragon</FIELD1>
+        <FIELD2>137</FIELD2>
+        <FIELD3>Premier Fire-Breath</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Gremlin</FIELD1>
+        <FIELD2>86</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Troll</FIELD1>
+        <FIELD2>164</FIELD2>
+        <FIELD3>Ultimate Club</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Ghoul</FIELD1>
+        <FIELD2>66</FIELD2>
+        <FIELD3>Premier Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>40</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Shifter</FIELD1>
+        <FIELD2>114</FIELD2>
+        <FIELD3>Ultimate Claws</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Demon</FIELD1>
+        <FIELD2>70</FIELD2>
+        <FIELD3>Standard Sword</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>20</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Mutant</FIELD1>
+        <FIELD2>71</FIELD2>
+        <FIELD3>Ultimate Super-Punch</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Deranged Zombie</FIELD1>
+        <FIELD2>97</FIELD2>
+        <FIELD3>Ultimate Teeth</FIELD3>
+        <FIELD4>5</FIELD4>
+        <FIELD5>60</FIELD5>
+    </ROW>
+    <ROW>
+        <FIELD1>Extraordinary T-Rex</FIELD1>
+        <FIELD2>200</FIELD2>
+        <FIELD3>Ultimate Tiny-Arm-Attack</FIELD3>
+        <FIELD4>0</FIELD4>
+        <FIELD5>500</FIELD5>
+    </ROW>
+</ROWSET>

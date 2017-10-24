@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Enemies are sorted alphabetically.-->
+<enemies>
+	<sample_creep>
+		<name>Sample Creep</name>
+		<texture_folder>enemies/skeleton/</texture_folder>
+		<width>1.0</width>
+		<height>1.0</height>
+		<health>5.0</health>
+		<knockback_on_collide>true</knockback_on_collide>
+		<damage_on_collide>1.0</damage_on_collide>
+		<move_speed>5.0</move_speed>
+	</sample_creep>
+</enemies>

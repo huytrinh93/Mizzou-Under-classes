@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Items are sorted alphabetically.-->
+<items>
+	<money>
+		<name>Money</name>
+		<texture>money.png</texture>
+		<width>1.0</width>
+		<height>1.0</height>
+	</money>
+</items>

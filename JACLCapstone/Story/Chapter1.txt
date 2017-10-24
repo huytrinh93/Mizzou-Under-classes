@@ -1,0 +1,166 @@
+Chapter 1
+	<We start our game with panning of the world onto the place where our Heroine Dia lives>
+	
+	<We see Dia and her brother Malc playing in a field close to a mountain>
+	
+	<A giant earthquake shakes throughout the land and thats where the player takes control of Dia>
+	
+	Malc: 			Dia! Quickly, follow me to the cave and take cover!
+	
+	<Player follows Malc avoiding rocks, debris, etc.>
+	
+	<Boulder crashes behind entrance once Dia enters cave>
+	
+	...Enter Cave...
+	Malc: 			Dia! Stay close and wait for this earthquake to stop!
+	
+	<Earthquake stops>
+				Whew, that was a close call! I hope mother and father are alright.
+				This cave sure is dark, good thing I brought our lantern with us.
+
+	<Malc tries to move boulder blocking the way they came>
+
+				It's no use, I this boulder won't budge. Maybe we can find another way out of this cave.
+	
+	<Player takes control of Malc>
+	
+	<Start Tutorial Puzzle / Control Section of game>
+	
+	<End puzzle with finding a glowing rock>
+	
+	Mysterious Voice: 	Heeeeellllllppppppp Meeeeeeeeeeeee!
+
+	Malc:			Who... who's there!?
+
+	Mysterious Voice:	Heeeeeeeelllllpppppp meeeeeeeeeeeeeeee.....
+
+	Malc:			Dia did you hear that?
+
+	<Characters turn left and right to look at where voice is coming from>
+
+	Mysterious Voice:	Puuussssshhhhh thhhhheeee gllllowwwwiiinnngggg rooooccccckkkk offf theeeee peeedddaasssstaaaallll.....
+
+	Malc:			Dia, what do you think? Should we listen to this mysterious voice?
+
+	Mysterious Voice:	I knnnooowwwwww thhheeee waaaaayyyyy oooouuutttt offfff theeeee caaaaaavvvveeeee.....
+				Puuuussssshhhh thhheeeee gllloowwwwwiiinnnnggg rooooocccckkkk annnndd I wiiilllll shhhhhoowwww yoouuuuu....
+
+	Malc: 			Well Dia, it looks like we have no choice, let's listen to the voice and get the heck out of here!
+
+	<Malc with the help of Dia push over the boulder toppling it off it's pedastal shattering it revealing a man trapped within it.>
+
+	Mysterious Voice:	Thank you children for freeing me. My name is Xoyn. I've been trapped in that crystal by an evil wizard from long ago.
+				As my gratitude for being free, I shall guide you out of the cave.
+
+	Malc:			It is our pleasure, normally we wouldn't trust a mysterious voice, but we had no other choice. Thank you for guiding us out of here!
+
+	<The three walk further back down the cave finding the light at the end of the tunnel revealing an exit.>
+
+	<Once outside...>
+
+	Xoyn:			Ahhhhhh the fresh air! The breeze! The sunlight! I haven't had these pleasantries in decades! **Evil Cackle** 
+				Thank you children, now that I am free from my confines, I, Onyx, shall continue trying to take over this treacherous kingdom of Jewel!
+				It took all the remaining strength I had to conjure up that little "earthquake" you two were so scared about in order to lure you
+				in and free the likes of me! **Evil Cackle** For your cooperation I have held up my deal and lead you outside of the cave and as
+				gratitude for setting me free, I shall let you live to see another day. Goodbye children, and thank you for letting my wickednes roam
+				again! **Evil Cackle**
+
+	<Onyx takes off flying away into the distance>
+
+	Malc:			Hey! Mister! Wait! What do you mean you're going to take over Jewel! Xoyn!!!
+				Dia, this is bad, we better go back home and tell mother and father what happened!
+
+	<Follow Malc back home through the forest>
+
+	<After following Malc through the forest, the two siblings arrive home>
+	
+	<The parents rush out of the home towards the two siblings>
+	
+	Father: 		Dia! Malc! Thank the guradian you two are alright. Where did the two of you go during the earthquake!?
+
+	Malc: 			Papa, we ran into the cave in the forest for shelter.
+
+	Father: 		Oh thank goodness! We were worred you two would've been crushed by the debris falling from the Sanguine Crag.
+
+	Dia: 			Oh papa! I'm so sorry!
+
+	Father: 		??? What happened Dia? You two are okay, everything is fine!
+
+	Dia: 			Well, when Malc and I ran into the cave we got trapped inside. We heard a strange voice coming from a glowing crystal. The crystal told us to
+				knock it over and it would help us escape so we did!
+
+	Father: 		Oh Dia! Please don't tell me... you both found the crystal imprisoning the evil conquerer Onyx?
+
+	Dia:			Yes, but how did you know!? 
+
+	Father:			My dear children, gather around while your mother and I tell you the story of how we came to live where we are and who our family really is.
+
+	<Start a cinematic flashback>
+
+	Father:			Many many years ago, when I was but a wee child there was a beautiful guardian of our land of Jewel. It was made of extravagent gemstones that
+				held mystical powers. It protected us from the dangers of the land, helped us live free and happy. But one day, an evil came onto our lands.
+				That evil's name was Onyx. Onyx had a plan to conquer the kingdom of Jewel and take control of our very own gemstone guardian. An epic battle between
+				the guardian and Onyx took place and in the end the gemstone guardian shattered into several pieces sealing away Onyx into his own black gemstone.
+			
+				Since that day, our family was chosen by the village to protect the several shattered pieces in case one day we may need to try and summon the gemstone
+				guardian once again.
+
+	<go back to present day>
+
+	Onyx:			Touching story old gemstone guardian, but you're too late. I've already gathered and hidden those precious jewels across this land. My power hasn't returned
+				enough to destroy such mystical gems, but I have enough to at least take care of you!
+
+	<Onyx crashes down a giant boulder onto their home trapping the two sibling's parents underneath it, in process make it so Malc gets knocked back and "hurt">
+
+	Father:			Onyx! You will never get away with this!
+
+	Onyx:			*Evil Cackle* Hehehehe, oh, but I already have, and once I regain my strength I shall gather those mystical gems and corrupt them to summone my own
+				dark and evil gemstone guardian!
+	
+	<Onyx then flies away>
+	
+	Father: 		Dia go check on Malc to see okay. Luckily your mother and I were able to conjure up a bit of magic to protect ourselves; however, we only have enough to
+				keep this boulder from crushing us for the time being.
+
+	<Dia checks on Malc who was knocked unconcious>
+
+	Father:			I see, well I'll need you to take his <weapon we give> and run into the city and grab the doctor, while you're there try to also find the Minor brothers to
+				help break up this boulder so we can get out from underneath. The city should be located to the North!
+
+	<You've attained the <<weapon>>! Use <<action button>> to <<weapon verb>> enemies!>
+
+	<Fight through the north and arrive in city>
+
+	<Locate building with sign that looks like a hospital/Dr's House>
+
+	Doctor:			Dia! I'll go ahead and hurry on down to your home, I hope I get there in time to help Malc and the rest of your family!
+
+	<Locate building with sign that says Minor Bros. Home>
+
+	<In the building, there is a sign that reads "Left for the field to the west, will return by noon>
+
+	Minor Sister NPC:	Dia, my brother's haven't returned from the fields to the West! They're the only ones that can help remove that boulder on your house. Can you go check on them
+				to make sure they're alright? I would leave, but I have to mind the store, thank you bunches!
+
+	<Travel to the fields to the west>
+	<upon arriving hear>
+				Arrrrrgggggghhhhhhhh!
+
+	<The Minor brothers are surrounded by enemies, one of the brothers is fainted>
+
+	<As Dia, intervene and rescue them>
+
+	Non-Fainted Bro:	Thanks for helping us with those beasts Dia! We were out for some supplies and didn't hear them come up from behind us. Our hearing's gone a little bad from
+				all the dynamite and mining we do from day to day. They ended up hurting my little brother over here and he ended up fainting because he's not used to some
+				pain. He'll be alright though, he's just overreacting. I'll go ahead and drag him back to our store. Meet us there and we can talk more about helping your
+				parents.
+	
+	<return back to the Minor Bros. Store>
+
+	Both brothers: 		Thanks for the help back there. We'd be glad to help out your family. We'll leave right away and meet you there. Thanks Dia!
+
+	<return back home>
+	
+	<The boulder has been removed, Malc has returned to conciousness, and the home is under repair>
+
+	Doctor: 		Dia, 

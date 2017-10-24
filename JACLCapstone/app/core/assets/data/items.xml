@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Items are sorted alphabetically.-->
+<items>
+	<sword>
+		<name>sword</name>
+		<texture>sword.jpg</texture>
+		<width>1.0</width>
+		<height>1.5</height>
+		<knockback_on_collide>true</knockback_on_collide>
+		<damage_on_collide>1.0</damage_on_collide>
+		<use_time>0.25</use_time>
+	</sword>
+</items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="30" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset-biome" tilewidth="16" tileheight="16">
+  <image source="../../tileset-biome.png" width="2176" height="1104"/>
+ </tileset>
+ <tileset firstgid="9385" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <layer name="terrain" width="75" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1qERwCAUREGaSQFQUdpB0DMSGxDwM6xYf/PU1SelGkzLc07v1eoftNLqplZvGU43Wum1c1PUVgAw6/ZfBgAAAADwRQcbwP1g
+  </data>
+ </layer>
+ <layer name="background" width="75" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzlWktOAzEM7VlYsymHKWvu03Kpds1l6KawYSqBMJZj+/kzE4knRdFMx0n8xrEdTw+Pu93z0i5LO0/SH/d/24m1V9Y613P45of3swDlygLXD9FX4usykI3yaMlpv1Oebkv7YO1T4Uoa98z049eaPOVJk7PG1ZAZV+NJ4iuzXs6NxOvPM+/733Z12LM1VwUsnjhfmfVZ3FK7onh58uvjncsLqpOHJ8pX5/qoXVFoXGXsxyPbwTn6nHaP928KVxldMrLoO/LOJT03uueNgx1AY3Z1jEZQmV9FZKv2W9U41hxVdrW2n0FlpVz2BMRPr12tmc93+cMRVxKovto5R5orm9ehv1fMwUHzjwfDviR9u86DlWeA0Zoy9jc6W2qo9Fdd+7TDb4/OlhoidtXxnj2I+NLK9xexqy5Oouc1bT2Vue9McXCNHOkO75lGqzNUxsERjoAvRZDN/z36ZeMgaodVXFm1po59kI2DqA+5AXHnjmgcie4DrcY8e73dq3Om/qLNR6+3rjNUIVN/8QKxq06b29KevTojduWtR0fQkS941+PNzyr9FRJ3UUTyvurz/tr+qvq7WSUfyHecGeNgNbK1Mavu9996Dum5rf/nMUs/skXafwGllBiw
+  </data>
+ </layer>
+ <layer name="foreground" width="75" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztWFsOhCAM5Cau3/vl/U+0nEJ/NjHGQN8dxEmIiQHaDgOU1m8pv6PVoz0V1/i48f7798ZJefSaV2uXO/7M0+ygcGu1ruj710pnSLpC5lx6vkXY0oBq665f6x/1fM8Egm+ZPI10VlrqCmHdvYG2/7zWa9lK+dy0daPNSdUVCo9R6PFgyUdErm7lr1ZfSEDyyYonpJg8INFVFieSs9TaV5T9l23/iladYZZ7kPqmaY2N4GNh5DUcjJC3Z+kwu36IuM+ifWrVmEfIryjQ1F8kdkblKQocXXlymblOnJifmrd756HZ9xd3XOR7/9wHTRcesKiNzcSXBr2632zfHj8vXnhhBzkiWLg=
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="75" height="30" visible="0">
+  <properties>
+   <property name="0,22" value=""/>
+   <property name="0,23" value=""/>
+   <property name="0,24" value=""/>
+   <property name="0,25" value=""/>
+   <property name="66,0" value=""/>
+   <property name="67,0" value=""/>
+   <property name="68,0" value=""/>
+   <property name="69,0" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt10EKgDAMBMB+w2f4/8+JeFHwpiV0MwO9N+mmpWMArGHbq3ewjm69+lLvjF6l9j+1LmAOd0amv8/VOwxP8nvRB9LINAnkmGTV+fYvooOKTJoD6Ouc//t6cwAi1Qan
+  </data>
+ </layer>
+</map>

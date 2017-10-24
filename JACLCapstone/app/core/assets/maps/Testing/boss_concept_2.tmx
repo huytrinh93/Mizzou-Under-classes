@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="natset" tilewidth="16" tileheight="16">
+  <image source="../../terrain.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="4097" name="pkmset" tilewidth="16" tileheight="16">
+  <image source="../../tileset-advance.png" width="128" height="15971"/>
+ </tileset>
+ <layer name="terrain" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzrYmRg6BrFo3gUj+JRPIpJxACU6Nkx
+  </data>
+ </layer>
+ <layer name="background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFkIkNgzAMRYFFyrUXV/cqpR2ETXoO0udCkJWSSEAlLD0JvuP8HwfBssrDhQMzdVB3/OO+JZXgl0IWDt6SJQ7X6xXU0MARCig36A/5Jmcte4qC8sR/O+pPeMEbtK7P0+u5p+9Azp8Fet3Q73Vfz904d585D/Ldo8nM168bs0oO3Xf5WOdbPMV7yif9C1ytvsvHldvkc+1J69rHldvk8/mZ3J73/uxP+3nyTXOu3Hp/xk/n07n13Nr9uXL73mPvyfaby+3TE/aSQgZ5NOwpjtbrFdTQwBEKKDfoe1Sxk6/UB7d4tGs=
+  </data>
+ </layer>
+ <layer name="foreground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="../../tileset.png" width="1744" height="848"/>
+ </tileset>
+ <tileset firstgid="5778" name="tileset-advance" tilewidth="16" tileheight="16">
+  <image source="../../tileset-advance.png" width="128" height="15971"/>
+ </tileset>
+ <tileset firstgid="13762" name="tileset-biome" tilewidth="16" tileheight="16">
+  <image source="../../tileset-biome.png" width="2176" height="1104"/>
+ </tileset>
+ <layer name="terrain" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENwDAIBVGUDbN/5U2yQKQ4GPjYuuI6kB5imNkgath1vzc7N7MbbYvsVF+FbcVY6fMYO/uqbfjwqX1/jN19/BgfPnyZPoXxNF+l0WPDh09pq/Ct2HbwZRsjfFnGKFvkPUrTl1NtIfL0AI2Uulw=
+  </data>
+ </layer>
+ <layer name="background" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzVmEFSAjEQRbOTC8BGr6BruASjF1F04xU8jVxBL4PIzo26dFLY5bfpn3QyQfBXpTIWPZ3Pw3RmenkSwmM/lkc6y/XZKITT0eFn7RGvj0HaI/JDPY1DeB7z2RvH7vN6ZPzOJyFcTPgs6+Xi2H0pvzl+nu8q65VK+7WU44f3ruYhvDQa6/lvH4xDih/eE7299uOmazM2yiNjmOIn97T2xjxaDBk/jL1u4OWuHx/9uE14tBgyfhhr+ZP1cOi1Mfaz2+Z6N+IWXXt+khNlrY2x62n/fzLdjZPPa/npfMhD9HD1E6u5Suxi1ueZ7X7nofxYPuFRIytfLT+WD3mUKLK28kVpLt76h/l0XdC6v7Svo6TGY71Cf5qLp/5pf8yj9mLJ2muYqwW/1B7OCfePZw/X8rP8pfjhZ7KvPHv4r/lFyb7y7OGW/Eqkz/RD8bP2svaG9b6WX+rcLK3T7HzTTKJKnp9ZXqzTcs5Zeuu2I4rV5xJ+VjzLa0nvZ+Q89PxF1Z4jotV3nHBme6Pk/EWVnCMr4+/oZQPvHvpZvJSf9pjbx3pt/N09z941/PA3ztXBVN3xxte8v3n5DfEnta/m/W3f/MTbkP6B5mc9v7Pn+Vw8OzMsb3GW3paW7pe0Fsur+1c5sb5ObZ9K95W0WD3x+iztU3l9iVj/r7VYH46J9Xj33T/19OE8/edjnY/Bw3/m9wXFre12
+  </data>
+ </layer>
+ <layer name="foreground" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztlUEKgDAMBHPzR73X9+ufFLQQpIJJaFnbHZB4EYbBtHkRWc8HhXz7lKnfUdCOaG4F9ovBfjHYLwb7XWxJZE/270bt5+1hZdR+vWC/GL37WfaK/WLM0K/lOT1Dv694OrNfjFo/VEdkN/5/PpD7oe6DRjui8bd+KJ7Pbkj7++ZWuz/QJoID+7WbB5bhbKc=
+  </data>
+ </layer>
+ <objectgroup name="collisionobjects"/>
+ <layer name="events" width="40" height="40" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1jENADAIAEEEYLb+FwQQ5pJwp+DHjwAAAOhe/i4AAC7Y/hzb+4BZAVSWAXg=
+  </data>
+ </layer>
+</map>
